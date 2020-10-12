@@ -7,4 +7,5 @@ import com.file.sp.vo.MemberVO;
 @Service
 public interface MemberService {
 	public int insertMember(MemberVO upload);
+	public String stringtest();
 }

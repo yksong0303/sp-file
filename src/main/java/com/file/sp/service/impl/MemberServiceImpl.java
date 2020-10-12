@@ -39,5 +39,10 @@ public class MemberServiceImpl implements MemberService {
 		}
 		return result;
 	}
+	@Override
+	public String stringtest() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 
 }

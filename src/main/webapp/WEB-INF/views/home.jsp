@@ -4,6 +4,7 @@
 <head>
 	<title>Home</title>
 	<script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+	<link rel="icon" href="/resources/img/favicon1.ico" type="image/x-icon">
 </head>
 <body>
 <h1>
